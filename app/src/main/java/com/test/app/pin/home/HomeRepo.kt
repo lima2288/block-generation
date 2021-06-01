@@ -10,7 +10,7 @@ class HomeRepo {
 
     private val hexArray = "0123456789ABCDEF".toCharArray()
 
-        // generate pin block
+        // pin block generation
       fun generateFormat3(PIN: String) : String{
         var pinField =  "3" + Integer.toHexString(PIN.length) + PIN
         val r =  Random()
