@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_enter_pin">Enter pin</string>
+    <string name="btn_generate_pin">Generate pin</string>
+    <string name="msg_validation">The pin should be greater than 4</string>
+</resources>
